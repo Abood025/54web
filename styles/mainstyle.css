@@ -9,6 +9,7 @@ body {
     justify-content: center;
     align-items: center;
     background:#34383c;
+    overflow: hidden;
 }
 
 .glow-on-hover {
