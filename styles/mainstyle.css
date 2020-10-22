@@ -226,12 +226,12 @@ body {
 }
 
 .grad-bar {
-  width: 100%;
-  align-self: baseline;
-  height: 5px;
-  background: linear-gradient(-45deg, #EE7752, #E73C7E, #23A6D5, #23D5AB);
-  background-size: 400% 400%;
-  	-webkit-animation: gradbar 15s ease infinite;
-	-moz-animation: gradbar 15s ease infinite;
-	animation: gradbar 15s ease infinite;
+    width: 500%;
+    height: 5px;
+    align-self: baseline;
+    background: linear-gradient(-45deg, #EE7752, #E73C7E, #23A6D5, #23D5AB);
+    background-size: 400% 400%;
+    -webkit-animation: gradbar 15s ease infinite;
+    -moz-animation: gradbar 15s ease infinite;
+    animation: gradbar 15s ease infinite;
 }
