@@ -28,6 +28,20 @@ nav ul li.items{
   text-align: center;
   order: 3;
 }
+_54img {
+  height: 16px;
+  width: auto;
+  justify-self: start;
+  margin-left: 20px;
+}
+
+.navbar ul {
+  list-style: none;
+  display: grid;
+  grid-template-columns: repeat(6,1fr);
+  justify-self: end;
+  
+}
 nav ul li.items:after{
   position: absolute;
   content: '';
