@@ -1,6 +1,7 @@
 
 @import url('https://fonts.googleapis.com/css?family=Montserrat:400,500,600,700&display=swap');
 *{
+  background-color: #34383c;
   margin: 0;
   padding: 0;
   box-sizing: border-box;
@@ -16,6 +17,12 @@ nav ul{
   flex-wrap: wrap;
   align-items: center;
   justify-content: center;
+}
+nav img {
+  height: 16px;
+  width: auto;
+  justify-self: start;
+  margin-left: 20px;
 }
 nav ul li{
   padding: 15px 0;
