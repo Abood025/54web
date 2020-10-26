@@ -8,7 +8,8 @@
   font-family: 'Montserrat',sans-serif;
 }
 nav{
-  background: #151515;
+  background: #34383c;
+  height:777px;
   padding: 5px 40px;
 }
 nav ul{
@@ -19,10 +20,10 @@ nav ul{
   justify-content: center;
 }
 nav img {
-  height: 16px;
+  height: 77px;
   width: auto;
   justify-self: start;
-  margin-left: 20px;
+  margin-left: 390px;
 }
 nav ul li{
   padding: 15px 0;
@@ -34,12 +35,6 @@ nav ul li.items{
   margin: 0 16px;
   text-align: center;
   order: 3;
-}
-_54img {
-  height: 16px;
-  width: auto;
-  justify-self: start;
-  margin-left: 20px;
 }
 
 .navbar ul {
