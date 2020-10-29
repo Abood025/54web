@@ -95,7 +95,7 @@ nav ul li.btn{
 nav ul li.btn.hide i:before{
   content: '\f00d';
 }
-@media all and (max-width: 900px){
+@media all and (max-width: 1170px){
   nav{
     padding: 5px 30px;
     transition:all 0.7s ease-out
